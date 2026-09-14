@@ -72,7 +72,7 @@ The final project provides an interactive interface where users can enter studen
 
 # 🚀 Live Application
 
-> 🌐 **Live Demo: http://localhost:8501/
+> 🌐 **Live Demo: https://student-career-success-prediction-n4xvvdute4gcwqjrwgyjdp.streamlit.app/
 
 The application is built using **Streamlit** and is designed as an interactive ML prediction dashboard.
 
